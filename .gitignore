@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+checkpoints/
+models/
+*.tar.gz
+*.onnx
+stage3_part_*
+.DS_Store
